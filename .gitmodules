@@ -1,0 +1,6 @@
+[submodule ".vim/pack/plugins/start/jedi-vim"]
+	path = .vim/pack/plugins/start/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim
+[submodule ".vim/pack/plugins/start/vim-buftabline"]
+	path = .vim/pack/plugins/start/vim-buftabline
+	url = https://github.com/ap/vim-buftabline
