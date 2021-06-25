@@ -99,7 +99,7 @@ alias lock="i3lock -c 000000"
 alias prune-merged-branches="git branch --merged | egrep -v '(^\*|master|dev)' | xargs xargs git branch -d"
 alias append-commit="git commit -am appendix && git rebase -i HEAD~2 && git push -f"
 
-#i Virtualenvwrapper settings:
-export WORKON_HOME=$HOME/.virtualenvs
-VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
-source /home/sc/.local/bin/virtualenvwrapper.sh
+# Virtualenvwrapper settings:
+#export WORKON_HOME=$HOME/.virtualenvs
+#VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+#source /home/sc/.local/bin/virtualenvwrapper.sh
