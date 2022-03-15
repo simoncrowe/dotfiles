@@ -1,4 +1,3 @@
-
 accountmember
 ADDOPTS
 AESGCM
@@ -69,6 +68,8 @@ Doximity
 DOXIMITY
 ECDH
 elts
+entrypoints
+execnet
 fakeredis
 favicon
 FAVOURITE
@@ -87,6 +88,7 @@ fstring
 funcs
 fuzzle
 geoip
+getpid
 gettext
 gitdb
 gitpython
@@ -109,11 +111,13 @@ IFRAME
 imagesize
 importlib
 inequal
+iniconfig
 ipaddress
 ipdb
 ipware
 ipynb
 ipython
+isort
 itypes
 jmespath
 jsmath
@@ -189,8 +193,11 @@ Pipfile
 PKCE
 pkcs
 planout
+pluggy
+pluggy
 POSIX
 Postico
+preinstall
 printf
 proto
 proto
@@ -260,12 +267,14 @@ tagable
 tempfiles
 templating
 templating
+termcolor
 testenv
 testpaths
 tfplan
 tfstate
 timezonefinder
 tolower
+tomli
 traitlets
 traitlets
 TRIGGERER
