@@ -6,11 +6,13 @@ aiosignal
 amqp
 anonymisation
 Anonymisation
+apigw
 APIKEY
 appdirs
 applehelp
 artefacts
 asttokens
+asyncio
 asynctest
 atlassian
 Atlassian
@@ -21,6 +23,7 @@ autotools
 awscli
 awss
 backcall
+barbaz
 beautifulsoup
 Bloggs
 boto
@@ -47,6 +50,7 @@ ctype
 cython
 Cython
 daemonset
+datasource
 datetime
 dateutil
 debconf
@@ -69,7 +73,9 @@ DOXIMITY
 ECDH
 elts
 entrypoints
+eval
 execnet
+fakebit
 fakeredis
 favicon
 FAVOURITE
@@ -79,12 +85,14 @@ filterwarnings
 firestore
 firestore
 flob
+fluentd
 flushdb
 fonttools
 freetext
 freezegun
 frozenlist
 fstring
+fstrings
 funcs
 fuzzle
 geoip
@@ -166,15 +174,20 @@ mset
 msgpack
 multidict
 natsort
+ndiff
 nodecustom
+NOKEY
 noninteractive
+NOSECRET
 nosql
+notif
 nowarn
 numpy
 oauthlib
 offboard
 offboarded
 Offboards
+okhttp
 onebox
 Onebox
 openapi
@@ -234,6 +247,8 @@ redoc
 redocly
 referer
 reportlab
+reqs
+requestid
 rerunfailures
 retranscode
 Retranscode
@@ -288,6 +303,7 @@ unpersisted
 UNPROCESSABLE
 unpublish
 Unpublish
+unserializable
 uritemplate
 uritemplate
 urllib
@@ -298,6 +314,7 @@ venv
 virtualbox
 Virtualenv
 virtualenvwrapper
+Wacl
 wcwidth
 wcwidth
 WEBVTT
@@ -311,5 +328,4 @@ xlsxwriter
 xlsxwriter
 yamale
 yarl
-zipp
 zipp
