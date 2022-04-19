@@ -23,6 +23,7 @@ autotools
 awscli
 awss
 backcall
+backoff
 barbaz
 beautifulsoup
 Bloggs
@@ -155,6 +156,8 @@ libhoney
 libjpeg
 libncurses
 libpq
+linecap
+linejoin
 localised
 logfiles
 loglevel
@@ -193,6 +196,7 @@ Onebox
 openapi
 opencv
 opentelemetry
+otlp
 paginators
 parso
 pathspec
@@ -322,6 +326,7 @@ werkzeug
 wibble
 workdir
 wrkarnd
+wsgi
 wubble
 xdist
 xlsxwriter
