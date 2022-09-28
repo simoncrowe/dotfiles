@@ -131,6 +131,7 @@ funcs
 fuzzle
 gdrive
 gecos
+genrsa
 geoip
 getpid
 gettext
