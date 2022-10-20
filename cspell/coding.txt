@@ -1,3 +1,9 @@
+opentok
+norecursedirs
+darcs
+ggrandfather
+ggrandmother
+preds
 accountmember
 ADDOPTS
 addpenalty
