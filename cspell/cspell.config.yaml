@@ -1,0 +1,10 @@
+dictionaryDefinitions:
+  - name: coding 
+    path: ~/git/dotfiles/cspell/coding.txt
+    addWords: true
+  - name: misc 
+    path: ~/git/dotfiles/cspell/misc.txt
+    addWords: true
+dictionaries:
+  - coding 
+  - misc 
