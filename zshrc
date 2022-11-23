@@ -96,7 +96,7 @@ source $ZSH/oh-my-zsh.sh
 
 
 alias lock="i3lock -c 000000"
-alias prune-merged-branches="git branch --merged | egrep -v '(^\*|master|dev)' | xargs xargs git branch -d"
+alias prune-merged-branches="git branch --merged | grep -Ev '(^\*|master|dev)' | xargs xargs git branch -d"
 alias append-commit="git commit -am appendix && git rebase -i HEAD~2 && git push -f"
 
 # Virtualenvwrapper settings:
