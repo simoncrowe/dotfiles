@@ -9,6 +9,8 @@ Banxware
 Blackbaud
 BVNK
 Casumo
+customised
+Hendre
 Cdetached
 Cflat
 Compuco
