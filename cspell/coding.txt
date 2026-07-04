@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 containerd
 runcmd
 writefreelyblog
@@ -16,6 +17,9 @@ gcsfuse
 cuda
 cudnn
 pypirc
+=======
+
+>>>>>>> Stashed changes
 accessanalyzer
 accesslog
 accesstoken
@@ -30,17 +34,21 @@ adduser
 addvspace
 admined
 AESGCM
+agentic
 aggregatable
 aggs
+aioboto
 aiohttp
 aiosignal
 Aiven
+AKIA
 ALLSPHINXOPTS
 alnum
 alphanum
 amqp
 amrnb
 amrwb
+annotationlib
 anonymisation
 Anonymisation
 APAC
@@ -57,9 +65,11 @@ appuser
 aquasecurity
 argjson
 artefacts
+ascontiguousarray
 asdict
 asgiref
 asgs
+Assertable
 asttokens
 asyncio
 asynctest
@@ -82,6 +92,7 @@ autoreload
 autoremove
 autoretry
 autoscaler
+autosummary
 autotools
 autouse
 autozooming
@@ -92,6 +103,7 @@ awscloudfront
 awsconfig
 awspostgres
 awss
+awssecretsmanager
 backcall
 backender
 backends
@@ -115,6 +127,7 @@ borderopacity
 boto
 Boto
 botocore
+bottlerocket
 BROKERLIST
 buildconf
 BUILDDIR
@@ -122,14 +135,19 @@ BUILDEVENT
 buildevents
 buildkit
 buildtype
+buildx
 bumpversion
+burstable
 byteorder
 bzrignore
+CABAC
 cachecontrol
 cachetools
 Caddyfile
 callables
 caplog
+capsys
+CDPATH
 cdrs
 cdylib
 celerybeat
@@ -139,6 +157,7 @@ certifi
 cffi
 CFLAGS
 cgmodels
+cgrp
 CHAA
 chatbots
 chdir
@@ -148,6 +167,7 @@ chromedriver
 chsh
 cicd
 cidrsubnets
+cimpl
 civicrm
 Clientset
 clientsoftware
@@ -171,6 +191,7 @@ comms
 concat
 configmap
 confluentinc
+conftest
 Connor
 consec
 constqp
@@ -179,11 +200,14 @@ containerd
 contextvar
 contrastsecurity
 cooldown
+copyto
 coreapi
 coredns
 coreschema
+coreutils
 corev1
 corsheaders
+crds
 creack
 createsuperuser
 creds
@@ -195,7 +219,12 @@ ctlptl
 ctrf
 ctype
 cuda
+<<<<<<< Updated upstream
 cudnn
+=======
+cupy
+cupyx
+>>>>>>> Stashed changes
 curlimages
 cython
 Cython
@@ -203,6 +232,8 @@ daemonset
 darcs
 dasharray
 dashoffset
+dataclass
+dataclasses
 datadir
 Datafold
 dataplatform
@@ -221,8 +252,10 @@ ddos
 deadsnakes
 dearmor
 debconf
+Deblock
 decamel
 decapitalise
+decorrelated
 deduplicated
 deduplicating
 deduplication
@@ -230,16 +263,20 @@ deepdiff
 deeplink
 deeplinks
 defusedxml
+DEINTERLACE
+Deinterlacer
 deletable
 delt
 demux
 Demux
 demuxer
 DENABLE
+Denoise
 deps
 deque
 deserialised
 deskcolor
+detailmenu
 devhelp
 Devs
 DEXTRA
@@ -248,13 +285,17 @@ difflib
 digestmod
 dimen
 directionals
+direnv
 dirhtml
 distclean
 distutils
 divs
 djangorestframework
+dlpack
 dmypy
+dnspython
 dockercred
+Dockerfiles
 dockerhub
 dockerized
 docname
@@ -263,6 +304,7 @@ docstrings
 doctest
 doctests
 doctrees
+documentclass
 documentstyle
 docutils
 doseq
@@ -294,8 +336,10 @@ empspacing
 endcsname
 endfor
 endgroup
+ENDLIST
 endncolumn
 endpbox
+enduml
 entrypoint
 entrypoints
 EPIPE
@@ -306,6 +350,7 @@ errno
 errored
 etag
 etype
+euxo
 eval
 evensidemargin
 eventbridge
@@ -314,6 +359,7 @@ excinfo
 execnet
 expandafter
 explation
+EXTM
 extracolsep
 ezfnc
 fakebit
@@ -350,13 +396,18 @@ FREETYPE
 freezegun
 FRIBIDI
 fridibi
+<<<<<<< Updated upstream
 frontender
+=======
+fromtimestamp
+>>>>>>> Stashed changes
 frozenlist
 fstring
 fstrings
 fullline
 fullname
 funcs
+functools
 fuzzle
 gconf
 gcsfuse
@@ -366,9 +417,12 @@ gecos
 genrsa
 geoip
 geolocked
+getent
+getfixturevalue
 gethostname
 getpid
 gettext
+gevent
 ggrandfather
 ggrandmother
 ghcr
@@ -405,6 +459,7 @@ headheight
 headsep
 healthcheck
 healthz
+heaptrack
 herokuapp
 Hetzner
 hexists
@@ -436,6 +491,7 @@ hwaccel
 hwdownload
 hwupload
 idempotence
+Idempotently
 idna
 ifeq
 ifnum
@@ -448,6 +504,7 @@ imagesize
 imencode
 importlib
 incluster
+indeterministic
 inequal
 ingester
 iniconfig
@@ -456,6 +513,7 @@ initialisation
 Inkscape
 inpu
 Instrumentor
+Insync
 intercomhelpcenter
 interp
 ipaddress
@@ -470,11 +528,13 @@ Iseconds
 isfunction
 isinstance
 isom
+isoparse
 isort
 ISTORE
 itemsep
 itertools
 itypes
+jaraco
 jmespath
 jonathonf
 josharian
@@ -498,6 +558,7 @@ kafkaproduction
 kafkastaging
 KAFKASTORE
 kafkatesting
+Karpenter
 keda
 kedacore
 keepalive
@@ -522,6 +583,7 @@ kubelet
 kubernetes
 kuery
 KVAZAAR
+kwarg
 kwargs
 lastrowid
 latexpdf
@@ -534,7 +596,11 @@ leavevmode
 leftmargin
 leftmargini
 leftskip
+<<<<<<< Updated upstream
 letsencrypt
+=======
+letterpaper
+>>>>>>> Stashed changes
 levelname
 levelno
 lgettext
@@ -590,6 +656,7 @@ libpostproc
 libpq
 LIBPTHREAD
 libpython
+librdkafka
 libreadline
 libsm
 libsqlite
@@ -639,6 +706,7 @@ LOCALISATION
 localised
 localize
 localstack
+lockdown
 logfiles
 loglevel
 logr
@@ -656,6 +724,7 @@ mailru
 MAKEFLAGS
 makeinfo
 makemigrations
+malloc
 marginfalse
 marginparwidth
 margintrue
@@ -664,24 +733,34 @@ matplotlib
 matroska
 maxage
 MAXERROR
+maxinterval
 maxminddb
 Mbps
 mcqwidget
 mediaconvertqueue
 MEDIAFILES
 mediump
+memray
+meshgrid
 metabase
 metav1
 metavariables
 mget
 mgmt
+microbenchmark
+mininterval
+missized
 mkdir
 mkdocs
 mkdtemp
+mktime
 mlgpu
 modeltranslation
+modindex
+moduleauthor
 moto
 moveleft
+mpegts
 mset
 msgpack
 msie
@@ -697,6 +776,7 @@ natsort
 ncolumn
 ndarray
 ndiff
+ndimage
 ndjson
 newcounter
 newdimen
@@ -710,9 +790,12 @@ ngrok
 ngws
 nindent
 NOCOUNTRYCODE
+nodeclass
 nodecustom
 nodegroup
+nodeid
 nodelay
+nodepool
 nodesource
 nodetypes
 nodistro
@@ -737,9 +820,12 @@ NOTLOGGEDIN
 notrealemail
 nowarn
 nplusone
+nsight
 NSPHINXOPTS
+NTSC
 numberofcolumns
 numpy
+nvcr
 nvdp
 nvenc
 NVENC
@@ -749,6 +835,7 @@ OAC's
 OAUTHBEARER
 oauthlib
 objs
+objtype
 objx
 oddsidemargin
 offboard
@@ -758,10 +845,13 @@ OIDC
 ojsonpath
 okhttp
 onboarded
+ondemand
 onebox
 Onebox
+onnx
 onsi
 openapi
+opencode
 opencontainers
 opencore
 OPENCOREAMR
@@ -782,14 +872,19 @@ outv
 overprivileged
 OWASP
 pactcli
+pactflow
 pactfoundation
+PAFF
 pagecheckerboard
 pagecolor
+pagelen
 pageopacity
 pagerduty
+pagerefs
 pagestyle
 paginators
 PAPEROPT
+papersize
 paramaters
 parindent
 parindents
@@ -799,6 +894,7 @@ parskip
 parso
 partopsep
 Pathing
+pathlib
 pathspec
 pdflatex
 pdftk
@@ -807,6 +903,7 @@ pentesting
 permited
 pexpect
 pflag
+pgtrigger
 pickleshare
 pidfile
 Pids
@@ -823,11 +920,13 @@ PKCE
 pkcs
 pkgconfig
 planout
+plantuml
 platex
 platformdirs
 pluggy
 pluginmanager
 pmezard
+pointsize
 Popen
 POSIX
 Postico
@@ -839,9 +938,11 @@ predeploy
 preds
 preinstall
 PREPOPULATE
+presign
 printcentername
 printf
 priorityclass
+procps
 proto
 protobuf
 protos
@@ -853,6 +954,7 @@ psutil
 psycopg
 ptsize
 ptyprocess
+pullrequests
 pyasn
 pybuilder
 pycache
@@ -860,6 +962,7 @@ pycharm
 pycountry
 pycparser
 pycryptodome
+pycuda
 pydantic
 pyenv
 pyflow
@@ -884,11 +987,13 @@ PYTHONDONTWRITEBYTECODE
 PYTHONFAULTHANDLER
 PYTHONHASHSEED
 PYTHONPATH
+PYTHONPYCACHEPREFIX
 PYTHONUNBUFFERED
 pytype
 pytz
 pyyaml
 pyytest
+pyzmq
 qcollectiongenerator
 qhcp
 qrcode
@@ -909,8 +1014,13 @@ redrive
 redriven
 redrives
 referer
+refreshable
 refreshtoken
+<<<<<<< Updated upstream
 regionalisation
+=======
+reindexing
+>>>>>>> Stashed changes
 relativedelta
 renewcommand
 reportlab
@@ -918,6 +1028,7 @@ repr
 reqs
 requestid
 rerunfailures
+resizer
 retranscode
 Retranscode
 REVIEWDOG
@@ -930,7 +1041,11 @@ routetable
 rpush
 rtype
 ruleid
+<<<<<<< Updated upstream
 runcmd
+=======
+runbook
+>>>>>>> Stashed changes
 runserver
 runuser
 rustc
@@ -941,14 +1056,17 @@ schemav1
 scipy
 Scrapy
 Scte
+sctp
 sdist
 seccomp
 secnumdepth
 secpenalty
 secretmanager
+sectionauthor
 sectionfont
 sectionskip
 sectiontitle
+securityanalytics
 segs
 semgrep
 sendfile
@@ -958,6 +1076,7 @@ Serialises
 serializinghtml
 serverlog
 serverlogs
+serviceaccounts
 sessionid
 setcounter
 setpts
@@ -987,6 +1106,7 @@ socat
 sodipodi
 sortedcontainers
 sourcecode
+sourcelink
 sourcemaps
 spacingx
 spacingy
@@ -1008,13 +1128,16 @@ stagingauth
 stagingauthregistration
 stagingkubebox
 stagingteleport
+starlette
 startline
 STARTPTS
+startuml
 statefulset
 statsd
 stepfunctions
 stopfield
 stretchr
+strimzi
 structlog
 styleguide
 subchart
@@ -1024,6 +1147,7 @@ substr
 symfony
 syncd
 SYSCALL
+syscritical
 sysctls
 syslogs
 tabcr
@@ -1036,9 +1160,11 @@ tctl
 teardowns
 techops
 techstasks
+Telecine
 tempfiles
 templatefile
 templating
+tensorrt
 termcolor
 terraformrc
 tesseract
@@ -1048,7 +1174,10 @@ testpaths
 texhax
 texinfo
 textheight
+textmap
 textwidth
+TFDOCS
+tflock
 tfplan
 tfstate
 tftpl
@@ -1056,7 +1185,12 @@ tfvars
 THEORA
 THIRDPARTY
 threadpool
+<<<<<<< Updated upstream
 tiiuae
+=======
+Tiltfile
+Timecode
+>>>>>>> Stashed changes
 timeformat
 timezonefinder
 tmcd
@@ -1072,11 +1206,16 @@ topmargin
 topsep
 toset
 totp
+tqdm
+tracecontext
+tracemalloc
+traceparent
 traitlets
 TRIGGERER
 trimprefix
 trimsuffix
 trivlist
+trixie
 trunc
 TRUSTSTORE
 tsapp
@@ -1095,6 +1234,7 @@ unencrypted
 unhashed
 unicodecsv
 unidecode
+unoptimised
 unpersisted
 UNPROCESSABLE
 unpublish
@@ -1105,6 +1245,7 @@ upsampling
 UPSERT
 uritemplate
 urllib
+usedevicememory
 userarn
 usermod
 usersharingsetting
@@ -1121,6 +1262,7 @@ verion
 verts
 veryfast
 vfrdet
+viewcode
 viewsets
 virtualbox
 Virtualenv
@@ -1166,12 +1308,15 @@ xlsxwriter
 XORG
 xsrf
 xvda
+xvdb
 XVID
 xvidcore
 xzvf
 yamale
+yamls
 yarl
 yasm
 yuin
+ZEROBASED
 zipp
 zmqsend
