@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 containerd
 runcmd
 writefreelyblog
@@ -17,9 +16,6 @@ gcsfuse
 cuda
 cudnn
 pypirc
-=======
-
->>>>>>> Stashed changes
 accessanalyzer
 accesslog
 accesstoken
@@ -144,6 +140,7 @@ CABAC
 cachecontrol
 cachetools
 Caddyfile
+Caddyfile
 callables
 caplog
 capsys
@@ -169,6 +166,8 @@ cicd
 cidrsubnets
 cimpl
 civicrm
+CKAD
+clickhouse
 Clientset
 clientsoftware
 clipspace
@@ -197,6 +196,7 @@ consec
 constqp
 containerd
 containerd
+containerd
 contextvar
 contrastsecurity
 cooldown
@@ -219,16 +219,16 @@ ctlptl
 ctrf
 ctype
 cuda
-<<<<<<< Updated upstream
+cuda
 cudnn
-=======
+cudnn
 cupy
 cupyx
->>>>>>> Stashed changes
 curlimages
 cython
 Cython
 daemonset
+dagster
 darcs
 dasharray
 dashoffset
@@ -396,11 +396,8 @@ FREETYPE
 freezegun
 FRIBIDI
 fridibi
-<<<<<<< Updated upstream
 frontender
-=======
 fromtimestamp
->>>>>>> Stashed changes
 frozenlist
 fstring
 fstrings
@@ -410,6 +407,7 @@ funcs
 functools
 fuzzle
 gconf
+gcsfuse
 gcsfuse
 gdrive
 GECKOBOARD
@@ -454,6 +452,7 @@ hardcoding
 hashicorp
 hboxes
 hcloud
+hcloud
 hdel
 headheight
 headsep
@@ -461,6 +460,7 @@ healthcheck
 healthz
 heaptrack
 herokuapp
+Hetzner
 Hetzner
 hexists
 hfil
@@ -486,6 +486,7 @@ htmlhelp
 httplib
 httpserver
 httpx
+huggingface
 huggingface
 hwaccel
 hwdownload
@@ -596,11 +597,9 @@ leavevmode
 leftmargin
 leftmargini
 leftskip
-<<<<<<< Updated upstream
 letsencrypt
-=======
 letterpaper
->>>>>>> Stashed changes
+letsencrypt
 levelname
 levelno
 lgettext
@@ -862,6 +861,7 @@ opensource
 opentelemetery
 opentelemetry
 opentofu
+opentofu
 opentok
 originx
 originy
@@ -976,6 +976,7 @@ pyparsing
 pypdf
 pypdftk
 pypirc
+pypirc
 pypoetry
 pyproject
 pyrsistent
@@ -1001,6 +1002,7 @@ qthelp
 QUERYSET
 quicklogs
 Qwen
+Qwen
 RABBITMQ
 raggedleft
 raggedright
@@ -1016,11 +1018,8 @@ redrives
 referer
 refreshable
 refreshtoken
-<<<<<<< Updated upstream
 regionalisation
-=======
 reindexing
->>>>>>> Stashed changes
 relativedelta
 renewcommand
 reportlab
@@ -1041,11 +1040,9 @@ routetable
 rpush
 rtype
 ruleid
-<<<<<<< Updated upstream
 runcmd
-=======
 runbook
->>>>>>> Stashed changes
+runcmd
 runserver
 runuser
 rustc
@@ -1138,6 +1135,7 @@ stepfunctions
 stopfield
 stretchr
 strimzi
+Strimzi
 structlog
 styleguide
 subchart
@@ -1167,6 +1165,7 @@ templating
 tensorrt
 termcolor
 terraformrc
+terraformrc
 tesseract
 TESSERACT
 testenv
@@ -1182,15 +1181,14 @@ tfplan
 tfstate
 tftpl
 tfvars
+tfvars
 THEORA
 THIRDPARTY
 threadpool
-<<<<<<< Updated upstream
 tiiuae
-=======
 Tiltfile
 Timecode
->>>>>>> Stashed changes
+tiiuae
 timeformat
 timezonefinder
 tmcd
@@ -1294,6 +1292,8 @@ workdir
 workerid
 workerinput
 writefreely
+writefreely
+writefreelyblog
 writefreelyblog
 wrkarnd
 wsgi
