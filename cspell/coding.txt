@@ -1,3 +1,5 @@
+TEMPFAIL
+sysexits
 delenv
 ddtrace
 ASGI
