@@ -7,15 +7,24 @@ description: Software design principles and coding style for Python application 
 
 ## Design principles
 
+Follow the guidelines here unless they conflict with the stated architectural decisions
+for a given project.
+
 Prefer, in order:
 
 1. Pure functions: data in, data out, no side effects. (Functional core; imperative shell)
-2. Dependency injection for external dependencies (databases, APIs, message queues), using `typing.Protocol` as the interface. (Dependency inversion)
+2. Where justified, dependency injection for external dependencies (databases, APIs, message queues),
+   using `typing.Protocol` as the interface. (Dependency inversion)
 3. Where side effects are unavoidable, isolate them to the edges of the system (e.g. entrypoints, request handlers). 
+
+1 and 3 are universal; 2 is not. There are cases where dependency inversion adds unnecessary complexity
+and indirection without benefit. If there are not a significant number of business logic
+code paths that become easier to test and maintain with dependency inversion, it is acceptable
+to use concrete implementations directly.
 
 Optimise for simplicity and readability over cleverness or performance.
 
-Dependencies are injected as keyword-only parameters typed to the Protocol. Concrete adapters are constructed only at the edge, never inside services.
+Dependencies are injected as keyword-only parameters typed to the Protocol. Construct concrete adapters only at the edge, never inside services.
 
 ```python
 # service: business logic depends only on protocols
